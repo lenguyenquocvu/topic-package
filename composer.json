@@ -1,0 +1,19 @@
+{
+    "name": "84888/topic",
+    "description": "demo topic",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lenguyenquocvu",
+            "email": "lenguyenquocvucd17tt10@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Topic\\": "src/"
+        }
+    }
+}
